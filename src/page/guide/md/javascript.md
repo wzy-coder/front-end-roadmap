@@ -20,6 +20,8 @@
 - [Eloquent Javascript](https://eloquentjavascript.net/)
 - [ECMAScript 6 入门-阮一峰](https://es6.ruanyifeng.com/)
 - [现代 JavaScript 教程](https://zh.javascript.info/)
+- [学习JavaScript这一篇就够了](https://blog.csdn.net/qq_38490457/article/details/109257751)
+
 
 ## 📺 视频
 
